@@ -1,4 +1,4 @@
-#Fizz
+# Fizz
 
 Mine Monero on web with super ease. Just provide your key, start miner and have a chilled fizzy drink!
 

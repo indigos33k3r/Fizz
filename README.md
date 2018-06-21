@@ -98,7 +98,7 @@ Why GIFs when you can see it working live? Visit [this](https://maximousblk.gith
 
 Want yourself mentioned? Get some "great" ideas and contribute to this project. 
 
-Read [CONTRIBUTING.md]() for more information.
+Read [CONTRIBUTING.md](https://github.com/maximousblk/Fizz/blob/master/Contributing.md) for more information.
 
 ## Donate :moneybag:
 

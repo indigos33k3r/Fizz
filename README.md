@@ -2,7 +2,7 @@
 
 Mine Monero on web with super ease. Just provide your key, start miner and have a chilled fizzy drink!
 
-![Powered By CoinHive](https://i.imgur.com/3XirDFK.png)
+[![Powered By CoinHive](https://i.imgur.com/3XirDFK.png)](https://coinhive.com)
 
 ## Why Fizz?
 
@@ -108,4 +108,4 @@ Just mine some monero using the default site key provided in the prompt of [this
 
 ## License
 
-Read the [LICENSE.md]() file, you'll love it!
+Read the [LICENSE.md](https://github.com/maximousblk/Fizz/blob/master/license.md) file, you'll :heart: it!

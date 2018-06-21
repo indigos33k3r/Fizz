@@ -43,4 +43,4 @@ Ensure the PR description clearly describes the problem and solution. It should 
 
 No money, signup or hassle required!
 
-Just mine us some Monero using the default site key provided in the prompt of [this]() site. Easy enough....
+Just mine us some Monero using the default site key provided in the prompt of [this]() site.

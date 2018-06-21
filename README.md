@@ -85,7 +85,7 @@ Why GIFs when you can see it working live? Visit [this](https://maximousblk.gith
 1. Visit the site or open the ```index.html``` file (in your browser obviously)
 2. Enter your CoinHive Public Site Key in the prompt (or please use the default key to donate)
 3. Press ```M``` key to start the miner (press the info button for controls)
-4. Miner will notify you that the miner has started, meanwhile have a drink :beer: ...Cheers!
+4. Miner will notify you that the miner has started, meanwhile have a drink:beer: ...Cheers!
 5. When you are up, press `N` key to stop the miner
 
 * NOTE: If you get the "AdBlocker Detected" warning, just disable your ad blocking program (in cases if it is your antivirus, allow the blocked object) and reload your the page. So simple... isn't it?

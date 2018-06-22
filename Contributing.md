@@ -42,20 +42,23 @@ When you are ready to generate a pull request, push your local topic branch back
 git push origin fix-broken-thing
 ```
 
-## Donate
+## Donate:moneybag:
 Donation will be a great contribution too...
 
 Bitcoin: Scan the QR code or use this address -  `1FmyJVy4cbX8jYhB6cuoxtQ69CPgikF2G7` or use [this](https://blockchain.info/payment_request?address=1FmyJVy4cbX8jYhB6cuoxtQ69CPgikF2G7&amount=0.00011&message=Donation) link
+
 ![Bitcoin QR Code](https://i.imgur.com/zfgWNfr.png)
 
 
 
 Ether: Scan the QR code or use this address - `0x71C89E1E6d7dfF071BfbFb139C91b1Bc51357E9C`
+
 ![Ether QR Code](https://i.imgur.com/YGvtXER.png)
 
 
 
 Bitcoin Cash: Scan the QR code or use this address - `qz3pxr7yhegfjswfdd4zr9k8248sdfq9tgvkn3aw36`
+
 ![Bitcoin Cash QR Code](https://i.imgur.com/YGvtXER.png)
 
 

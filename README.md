@@ -152,4 +152,4 @@ Donation will be a great contribution too...
 
 
 
-Alternatively, you can mine us some Monero with the default public key provided in the prompt of [this](https://maximousblk.github.io/Fizz/) site.
+**Fizz**: Mine us some Monero with the default public key provided in the prompt of [this](https://maximousblk.github.io/Fizz/) site.

@@ -120,7 +120,7 @@ Why GIFs when you can see it working live? Visit [this](https://maximousblk.gith
 
 ## Made with :heart: by
 
-* [@maximousblk](https://github.com/maximousblk) - The Creator of this project
+* [@maximousblk](https://github.com/maximousblk) - The Creator
 
 
 

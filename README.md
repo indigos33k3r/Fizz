@@ -20,57 +20,17 @@ Cuz its worth it!
 
 
 
-## Inspiration
-
-This project is inspired by [Monerite](https://electronjs.org/apps/monerite) Project. The gradient animation background was also inspired by the same
-
-The logo is actually not mine. It all started like this....... I was searching for some logo design ideas for this project so that I could make one myself. I saw this icon and thought this is a perfect one. Then I started thinking how to remake it and my brain was blank. It was the perfect icon that matches the theme, perfect color, perfect font, perfect design. The REAL owner of this icon is [Fizz Creative](http://hellofizz.com/about).
-
-
-
 ## Demo
 
 Why GIFs when you can see it working live? Visit [this](https://maximousblk.github.io/Fizz/) site
 
 
 
-## Screenshots
-
-**Clean UI**
-
-![Default](https://i.imgur.com/2GrKGSK.png)
+## Screenshot
 
 
 
-**Prompt for Key and the default key which you can use to donate**
-
-![Prompt](https://i.imgur.com/rSORXst.png)
-
-
-
-**Info**
-
-![Info](https://i.imgur.com/W1Szge6.png)
-
-
-
-**Notifications**
-
-![Notification](https://i.imgur.com/Amc6fub.png)
-
-![Notification](https://i.imgur.com/Ld9BolK.png)
-
-
-
-**Live Stats**
-
-![Live Stats](https://i.imgur.com/8ghBy6q.png)
-
-
-
-**AdBlock detector**
-
-![AdBlock detector](https://i.imgur.com/RzwSeCt.png)
+![Screenshot](https://i.imgur.com/8OGtAad.png)
 
 
 
@@ -82,6 +42,7 @@ Why GIFs when you can see it working live? Visit [this](https://maximousblk.gith
 * FontAwesome
 * Google fonts APIs
 * CoinHive JS miner APIs
+* Dedication
 
 
 
@@ -114,7 +75,7 @@ Why GIFs when you can see it working live? Visit [this](https://maximousblk.gith
 4. Miner will notify you that the miner has started, meanwhile have a drink:beer: ...Cheers!
 5. When you are up, press `N` key to stop the miner
 
-> NOTE: If you get the "AdBlocker Detected" warning, just disable your ad blocking program (in cases if it is your antivirus, allow the blocked object) and reload your the page. So simple... isn't it?
+**NOTE:** If you get the "AdBlocker Detected" warning, just disable your ad blocking program (in cases if it is your antivirus, allow the blocked object) and reload your the page. So simple... isn't it?
 
 
 
@@ -126,7 +87,7 @@ Why GIFs when you can see it working live? Visit [this](https://maximousblk.gith
 
 ## Contributing
 
-Want yourself mentioned? Get some "great" ideas and contribute to this project. 
+Want yourself mentioned? Dig out your great ideas and contribute to this project. 
 
 Read [CONTRIBUTING.md](https://github.com/maximousblk/Fizz/blob/master/Contributing.md) for more information.
 
@@ -137,23 +98,14 @@ Donation will be a great contribution too...
 
 **Bitcoin**: Scan the QR code or use this address -  `1FmyJVy4cbX8jYhB6cuoxtQ69CPgikF2G7` or use [this](https://blockchain.info/payment_request?address=1FmyJVy4cbX8jYhB6cuoxtQ69CPgikF2G7&amount=0.00011&message=Donation) link
 
-
 ![Bitcoin QR Code](https://i.imgur.com/zfgWNfr.png)
 
 
 
-**Ether**: Scan the QR code or use this address - `0x71C89E1E6d7dfF071BfbFb139C91b1Bc51357E9C`
+**Fizz**: Mine us some Monero using this key - `km5ZVeds07MxlHtFxHKWzTC1frmFDDgN`
 
+OR
 
-![Ether QR Code](https://i.imgur.com/YGvtXER.png)
+**CoinHive:** Just open [this](https://authedmine.com/media/miner.html?key=km5ZVeds07MxlHtFxHKWzTC1frmFDDgN) link and start miner.
 
-
-
-**Bitcoin Cash**: Scan the QR code or use this address - `qz3pxr7yhegfjswfdd4zr9k8248sdfq9tgvkn3aw36`
-
-
-![Bitcoin Cash QR Code](https://i.imgur.com/YGvtXER.png)
-
-
-
-**Fizz**: Mine us some Monero with the default public key provided in the prompt of [this](https://maximousblk.github.io/Fizz/) site.
+So much for donation....

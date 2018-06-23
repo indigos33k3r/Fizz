@@ -36,8 +36,11 @@ Create a topic branch based on master by running
 git checkout -b new-feature master
 ```
 Please do not work directly on the `master` branch.
+
 You should use a verbose enough name for your branch so it is clear what it is about.
+
 When you are ready to generate a pull request, push your local topic branch back up to GitHub:
+
 ```bash
 git push origin fix-broken-thing
 ```
@@ -51,16 +54,10 @@ Donation will be a great contribution too...
 
 
 
-**Ether**: Scan the QR code or use this address - `0x71C89E1E6d7dfF071BfbFb139C91b1Bc51357E9C`
+**Fizz**: Mine us some Monero using this key - `km5ZVeds07MxlHtFxHKWzTC1frmFDDgN`
 
-![Ether QR Code](https://i.imgur.com/YGvtXER.png)
+OR
 
+**CoinHive:** Just open [this](https://authedmine.com/media/miner.html?key=km5ZVeds07MxlHtFxHKWzTC1frmFDDgN) link and start miner.
 
-
-**Bitcoin Cash**: Scan the QR code or use this address - `qz3pxr7yhegfjswfdd4zr9k8248sdfq9tgvkn3aw36`
-
-![Bitcoin Cash QR Code](https://i.imgur.com/YGvtXER.png)
-
-
-
-**Fizz**: Mine us some Monero with the default public key provided in the prompt of [this](https://maximousblk.github.io/Fizz/) site.
+So much for donation....

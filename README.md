@@ -39,10 +39,8 @@ Why GIFs when you can see it working live? Visit [this](https://maximousblk.gith
 * HTML
 * JS
 * CSS
-* FontAwesome
-* Google fonts APIs
 * CoinHive JS miner APIs
-* Dedication
+* An idea that came from frustration
 
 
 
@@ -55,6 +53,10 @@ Why GIFs when you can see it working live? Visit [this](https://maximousblk.gith
 * Animated gradient background fizzy bubble animation
 * Checks if any AdBlock program is blocking CoinHive API
 * Info button to Acknowledge controls
+
+
+
+**NOTE:** Only for desktops. Smartphone mining is harmful for your pocket!
 
 
 
@@ -102,7 +104,7 @@ Donation will be a great contribution too...
 
 
 
-**Fizz**: Mine us some Monero using this key - `km5ZVeds07MxlHtFxHKWzTC1frmFDDgN`
+**Fizz**: Mine us some Monero using this key (default key in the prompt) - `km5ZVeds07MxlHtFxHKWzTC1frmFDDgN`
 
 OR
 

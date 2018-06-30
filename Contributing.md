@@ -54,7 +54,7 @@ Donation will be a great contribution too...
 
 
 
-**Fizz**: Mine us some Monero using this key - `km5ZVeds07MxlHtFxHKWzTC1frmFDDgN`
+**Fizz**: Mine us some Monero using this key (default key in the prompt) - `km5ZVeds07MxlHtFxHKWzTC1frmFDDgN`
 
 OR
 

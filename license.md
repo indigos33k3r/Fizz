@@ -4,7 +4,7 @@
                               OPEN PROJECT CUSTOM LICENSE 
                                  Version 1, June 2018 
 
- Copyright (C) 2018 Maximous Black <maximousbshane@gmail.com> 
+ Copyright (C) 2018 Maximous Black <maximousblk@gmail.com> 
 
  Everyone is permitted to copy and distribute verbatim copies of this license document. 
 
